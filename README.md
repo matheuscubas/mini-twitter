@@ -1,24 +1,21 @@
 # README
+## mini-twitter
+A tutorial that I developed as a student from <a href=[https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/authentication](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/authentication)>The Odin Project</a> to learn about Authentication using Devise.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+This application is focused on getting the main funcionalities of a athentication system going, with a simple layout.
+this application was made using <a href= [https://github.com/heartcombo/devise](https://github.com/heartcombo/devise)> Devise</a> and <a href=[https://github.com/heartcombo/simple_form](https://github.com/heartcombo/simple_form)>simple_form</a>.
 
-Things you may want to cover:
 
-* Ruby version
+## Run it
+i've deployed it on herou https://quiet-sands-09702.herokuapp.com/
+so check it out!
 
-* System dependencies
+## Conclusion
+This project was great and fullfiled it's role, i've seen first hand how to use Forms and Authentication to build a fully working app! with all authentication  funcionalities. Devise is a pretty powerfull tool that i'm excited to be working with again!
 
-* Configuration
+## Credits
+This <a href=[https://web-crunch.com/posts/lets-build-with-ruby-on-rails-a-twitter-clone](https://web-crunch.com/posts/lets-build-with-ruby-on-rails-a-twitter-clone)>tutorial</a> was developed by <a href=[https://github.com/justalever/twittter](https://github.com/justalever/twittter)>Andy Leverenz</a>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
