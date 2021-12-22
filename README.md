@@ -1,5 +1,4 @@
-# README
-## mini-twitter
+# mini-twitter
 A tutorial that I developed as a student from <a href=[https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/authentication](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/authentication)>The Odin Project</a> to learn about Authentication using Devise.
 <br><br>
 ## Description
